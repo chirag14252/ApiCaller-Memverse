@@ -1,0 +1,31 @@
+.apiClass{
+    display: flex;
+   justify-content: space-around;
+   padding: 1%;
+}
+
+.memverse{
+    font-size: 3rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.button-class{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   gap: 1rem;
+}
+.image-class{
+    padding: 1%;
+    border: 2px solid black;
+    border-radius: 5px;
+   
+}
+.button1{
+    width: 20rem;
+    background-color: #EA1179;
+}
+.button{
+    width: 20rem;
+    background-color: greenyellow;
+}
